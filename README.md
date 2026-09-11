@@ -227,11 +227,11 @@ Possible improvements include:
 
 ## 👨‍💻 Author
 
-**Mahesh Gaigula**
+**Pulakanti Sai Niharika **
 
 **B.Tech – Electronics and Communication Engineering (ECE)**
 
-GitHub: [maheshgaigula](https://github.com/maheshgaigula)
+GitHub: [Pulakanti sai niharika](https://github.com/P-SAI-NIHARIKA)
 
 ## 📌 Project Information
 
